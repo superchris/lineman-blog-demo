@@ -1,8 +1,10 @@
 ---
-title: "A very nice title. With punctuation!"
-author:
-  name: "Double Agent Man"
+title: A very nice title
+author: 
+  name: Double Agent Man
+published: true
 ---
+
 I'm just an example post
 
 > and I'm a quote of some markdown.
