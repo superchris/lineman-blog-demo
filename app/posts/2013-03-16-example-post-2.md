@@ -1,4 +1,4 @@
-I'm another example post
+I'm another example post yo.
 
 ``` coffeescript
 andIAmSome = "CoffeeScript"
